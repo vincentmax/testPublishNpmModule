@@ -12,10 +12,10 @@
   },
   "author": "Vincent Zhang (vincent.zhang@hpe.com)",
   "devDependencies": {
-    "mocha": "~1.16.2",
-    "chai": "~1.8.1"
+    "chai": "^3.5.0",
+    "mocha": "^3.0.0"
   },
-   "bugs": {
+  "bugs": {
     "url": "https://github.com/vincentmax/testPublishNpmModule/issues"
-  },
+  }
 }
