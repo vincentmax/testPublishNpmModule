@@ -1,0 +1,21 @@
+{
+  "name": "testPublishNpmModule",
+  "version": "1.0.0",
+  "description": "A small test",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brentertz/scapegoat.git"
+  },
+  
+  "author": "Vincent Zhang (vincent.zhang@hpe.com)",
+  
+  
+  "devDependencies": {
+    "mocha": "~1.16.2",
+    "chai": "~1.8.1"
+  }
+}
