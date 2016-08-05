@@ -1,5 +1,5 @@
 {
-  "name": "test_publish_nmp_module",
+  "name": "testPNM",
   "version": "1.0.0",
   "description": "A small test",
   "main": "index.js",
