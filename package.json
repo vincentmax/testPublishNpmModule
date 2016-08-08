@@ -1,5 +1,5 @@
 {
-  "name": "testPNM",
+  "name": "testPublishNpmModule",
   "version": "1.0.0",
   "description": "A small test",
   "main": "index.js",
