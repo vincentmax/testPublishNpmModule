@@ -1,6 +1,6 @@
 {
-  "name": "testPublishNpmModule",
-  "version": "1.0.0",
+  "name": "test-publish-npm-module",
+  "version": "1.0.2",
   "description": "A small test",
   "main": "index.js",
   "scripts": {
